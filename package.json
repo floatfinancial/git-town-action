@@ -40,6 +40,6 @@
     "lint-staged": "^15.2.2",
     "mdast": "^2.3.2",
     "prettier": "^3.2.5",
-    "vitest": "^1.4.0"
+    "vitest": "^1.6.1"
   }
 }
